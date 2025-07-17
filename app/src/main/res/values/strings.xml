@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Policy Summary</string>
+    <string name="policies_title">My Policies</string>
+    <string name="home_title">Home</string>
+    <string name="claims_title">Claims</string>
+    <string name="profile_title">Profile</string>
+    <string name="read_more">Read More</string>
+    <string name="show_less">Show Less</string>
+    <string name="policy_number">Policy No: %s</string>
+    <string name="next_premium_due">Next Premium Due: %s</string>
+</resources>
