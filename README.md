@@ -9,14 +9,14 @@ Android mobile application built with Kotlin and Jetpack Compose for displaying 
 - Navigation: Navigation Compose
 
 ## Features
-✅ Policy Summary screen with 3 sample policies
-✅ Expand/collapse animation for "Read More"
-✅ Header with app logo and screen title
-✅ Bottom navigation with 4 tabs
-✅ Color theme Dark Blue #002C5F and Light Red #FF6F61
-✅ Reusable components
-✅ Organized folder structure
-✅ Proper state management with ViewModel
+ Policy Summary screen with 3 sample policies
+ Expand/collapse animation for "Read More"
+ Header with app logo and screen title
+ Bottom navigation with 4 tabs
+ Color theme Dark Blue #002C5F and Light Red #FF6F61
+ Reusable components
+ Organized folder structure
+ Proper state management with ViewModel
 
 ## Requirements
 - Android Studio
